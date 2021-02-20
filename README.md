@@ -1,6 +1,7 @@
 # Lab 4:QMetaTile
 
 **By:** Chase Verbout, chase27@uw.edu
+**Access the map:** https://cverbout.github.io/QMetaTiles/
 
 The area for observation in these maps is the United States. Starting at a very broad country-wide focus and allowing the user to zoom in to a broad state level view.
 
